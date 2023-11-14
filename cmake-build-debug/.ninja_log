@@ -1,0 +1,16 @@
+# ninja log v5
+0	371	1699967430485229661	CMakeFiles/OlegPidor.dir/solve_n_queens.cpp.o	8c5599ac0ceed8ac
+2	363	1699972584104010952	CMakeFiles/OlegPidor1.dir/solve_n_queens.cpp.o	5d00aa00758ca6fb
+0	386	1699966849184294042	CMakeFiles/OlegPidor.dir/OlegPidor.cpp.o	aa7debd96275ec06
+1	407	1699967430522820363	CMakeFiles/OlegPidor.dir/print_solution.cpp.o	23ecf6e4bc615e05
+0	443	1699967430558624939	CMakeFiles/OlegPidor.dir/main.cpp.o	d8536d2cd594412d
+443	532	1699967430647928981	OlegPidor	2b4f3d732612050b
+5	446	1699972485645249927	CMakeFiles/OlegPidor1.dir/main.cpp.o	37fd8654a5c7aae5
+364	390	1699972584132501887	OlegPidor1	768a25155ccbd01
+0	372	1699967430485241078	CMakeFiles/OlegPidor.dir/is_safe.cpp.o	e25ce4b41668c25e
+0	40	1699972685996356935	build.ninja	34f4fa4331176a89
+5	430	1699972485631088502	CMakeFiles/OlegPidor1.dir/print_solution.cpp.o	b178236f3060a14a
+5	390	1699972485589766849	CMakeFiles/OlegPidor1.dir/is_safe.cpp.o	1f4236dbf5e94cd7
+0	46	1699972685996356935	build.ninja	34f4fa4331176a89
+2	360	1699973403558269534	CMakeFiles/OlegPidor1.dir/is_safe.cpp.o	1f4236dbf5e94cd7
+360	450	1699973403648054157	OlegPidor1	768a25155ccbd01

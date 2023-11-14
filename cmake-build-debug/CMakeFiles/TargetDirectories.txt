@@ -1,0 +1,3 @@
+/Users/admin/CLionProjects/OlegPidor/cmake-build-debug/CMakeFiles/OlegPidor1.dir
+/Users/admin/CLionProjects/OlegPidor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/CLionProjects/OlegPidor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
